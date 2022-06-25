@@ -1,4 +1,4 @@
-![](C:\Users\Melisa\kodluyoruzilkrepo\foto\Adsız.png)
+![](https://github.com/melisahingl/kodluyoruzilkrepo/blob/main/foto/Ads%C4%B1z.png?raw=true)
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ## Installation
